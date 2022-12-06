@@ -1,4 +1,4 @@
-Name,UniqeID,A3,A2,NUM,STANAG,INTERNET
+Name,UniqeID,ISO 2 letter, ISO 3 letter,ISO NUM,STANAG,DOMAIN
 Afghanistan,AF,AF,AFG,004,AFG,.af
 Akrotiri,AX,-,-,-,-,-
 Albania,AL,AL,ALB,008,ALB,.al
