@@ -1,4 +1,4 @@
-Name,GEC,A3,A2,NUM,STANAG,INTERNET
+Name,UniqeID,A3,A2,NUM,STANAG,INTERNET
 Afghanistan,AF,AF,AFG,004,AFG,.af
 Akrotiri,AX,-,-,-,-,-
 Albania,AL,AL,ALB,008,ALB,.al
@@ -38,7 +38,7 @@ British Virgin Islands,VI,VG,VGB,092,VGB,.vg
 Brunei,BX,BN,BRN,096,BRN,.bn
 Bulgaria,BU,BG,BGR,100,BGR,.bg
 Burkina Faso,UV,BF,BFA,854,BFA,.bf
-Burma,BM,MM,MMR,104,MMR,.mm
+Burma(Myanmar),BM,MM,MMR,104,MMR,.mm
 Burundi,BY,BI,BDI,108,BDI,.bi
 Cabo Verde,CV,CV,CPV,132,CPV,.cv
 Cambodia,CB,KH,KHM,116,KHM,.kh
@@ -77,13 +77,13 @@ Equatorial Guinea,EK,GQ,GNQ,226,GNQ,.gq
 Eritrea,ER,ER,ERI,232,ERI,.er
 Estonia,EN,EE,EST,233,EST,.ee
 Ethiopia,ET,ET,ETH,231,ETH,.et
-Europa Island,EU,-,-,-,-,-
+European Union,EU,-,-,-,-,.eu
 Falkland Islands (Islas Malvinas),FK,FK,FLK,238,FLK,.fk
 Faroe Islands,FO,FO,FRO,234,FRO,.fo
 Fiji,FJ,FJ,FJI,242,FJI,.fj
 Finland,FI,FI,FIN,246,FIN,.fi
 France,FR,FR,FRA,250,FRA,.fr
-"France, Metropolitan",-,FX,FXX,249,-,.fx
+"France, Metropolitan",FX,FX,FXX,249,-,.fx
 French Guiana,FG,GF,GUF,254,GUF,.gf
 French Polynesia,FP,PF,PYF,258,PYF,.pf
 French Southern and Antarctic Lands,FS,TF,ATF,260,ATF,.tf
@@ -170,7 +170,6 @@ Montenegro,MJ,ME,MNE,499,MNE,.me
 Montserrat,MH,MS,MSR,500,MSR,.ms
 Morocco,MO,MA,MAR,504,MAR,.ma
 Mozambique,MZ,MZ,MOZ,508,MOZ,.mz
-Myanmar,-,-,-,-,-,-
 Namibia,WA,NA,NAM,516,NAM,.na
 Nauru,NR,NR,NRU,520,NRU,.nr
 Navassa Island,BQ,-,-,-,UMI,-
@@ -235,7 +234,7 @@ Sri Lanka,CE,LK,LKA,144,LKA,.lk
 Sudan,SU,SD,SDN,729,SDN,.sd
 Suriname,NS,SR,SUR,740,SUR,.sr
 Svalbard,SV,SJ,SJM,744,SJM,.sj
-Swaziland,WZ,SZ,SWZ,748,SWZ,.sz
+Swaziland(Eswatini),WZ,SZ,SWZ,748,SWZ,.sz
 Sweden,SW,SE,SWE,752,SWE,.se
 Switzerland,SZ,CH,CHE,756,CHE,.ch
 Syria,SY,SY,SYR,760,SYR,.sy
@@ -266,15 +265,11 @@ Vanuatu,NH,VU,VUT,548,VUT,.vu
 Venezuela,VE,VE,VEN,862,VEN,.ve
 Vietnam,VM,VN,VNM,704,VNM,.vn
 Virgin Islands,VQ,VI,VIR,850,VIR,.vi
-Virgin Islands (UK),-,-,-,-,-,.vg
-Virgin Islands (US),-,-,-,-,-,.vi
 Wake Island,WQ,-,-,-,UMI,-
 Wallis and Futuna,WF,WF,WLF,876,WLF,.wf
 West Bank,WE,PS,PSE,275,PSE,.ps
 Western Sahara,WI,EH,ESH,732,ESH,.eh
-Western Samoa,-,-,-,-,-,.ws
-World,-,-,-,-,-,-
+World,WO,-,-,-,-,-
 Yemen,YM,YE,YEM,887,YEM,.ye
-Zaire,-,-,-,-,-,-
 Zambia,ZA,ZM,ZMB,894,ZMB,.zm
 Zimbabwe,ZI,ZW,ZWE,716,ZWE,.zw
